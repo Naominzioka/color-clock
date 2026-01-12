@@ -1,4 +1,6 @@
-# 🕒 ShopEase Clock App
+# 🕒 Clock App
+
+![My Clock](./screenshot.png)
 
 ## 📝 Description:
 This is a simple React application that shows the current date and time. I built this to practice using React components and an external library called date-fns. It features a bold "Autumn Orange" design that is easy to read.
